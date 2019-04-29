@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Prashambhuta/IELTS-resources/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Prashambhuta/IELTS-resources/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Websites :
+ * [IELTS Liz – IELTS Preparation: Free Tips, Lessons & English](http://ieltsliz.com/) 
+ * [IELTS Practice and Sample test Materials](https://www.ielts.org/about-the-test/sample-test-questions)
+ * [IELTS Preparation - IELTSAdvantage.com](https://www.ieltsadvantage.com/)
+ * [IELTS Academic Reading Practice Tests | IELTS Essentials](https://www.ieltsessentials.com/global/prepare/freepracticetests/academicreadingpracticetests)
+### Sample Tests & Mock Papers :
+ * [British Council](https://takeielts.britishcouncil.org/prepare-test/free-practice-tests )
+ * [IELTS ORG](https://www.ielts.org/usa/ielts-for-test-takers/ielts-practice-test )
+### Book Material :
+ * [Cambridge IELTS 12](https://www.amazon.in/Cambridge-IELTS-Academic-Students-Answers/dp/1316637824/ref=sr_1_3?keywords=Cambridge+IELTS+12&qid=1556521831&s=gateway&sr=8-3) 
+ * [Cambridge IELTS 12 Listening AUDIO](https://www.youtube.com/watch?v=BEtw8Gz0Olw)
